@@ -1,3 +1,2 @@
 # programsNstuff
-some random things happen here.
-hello
+this is a place where i post random programs. 
